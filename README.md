@@ -1,0 +1,2 @@
+# convert-an-OS-based-program-into-a-menu-driven-program
+"convert an OS based program into a menu driven program using Python code which will execute the required user query when user will give input as text. The code will analyse the input and accordingly perform the action. If it is unable to understand the instruction provided by the user then it will generate an appropriate message to the user. If the user want to exit or close the program, he may instruct the program to stop further working and the code processing will be stopped. #Python3
